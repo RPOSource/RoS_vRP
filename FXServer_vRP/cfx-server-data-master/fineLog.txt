@@ -1,0 +1,27 @@
+Mon Feb 26 23:07:58 2018 => 1 fined 2 the amount of 100 for god
+Sat Mar  3 00:07:06 2018 => 166 fined 4 the amount of 1000 for alta velocidade
+Sat Mar  3 03:14:03 2018 => 166 fined 208 the amount of 1000 for furto a veiculo
+Sat Mar  3 20:09:22 2018 => 166 fined 30 the amount of 1000 for fianca
+
+Sat Mar  3 20:10:34 2018 => 166 fined 30 the amount of 1000 for fianca
+Sat Mar  3 21:53:36 2018 => 166 fined 222 the amount of 1000 for furto de  veiculo
+Sat Mar  3 22:51:58 2018 => 166 fined 25 the amount of 1000 for andar sem capacete!
+Sat Mar  3 22:52:14 2018 => 167 fined 222 the amount of 500 for Atravessar sinal
+Sat Mar  3 23:02:25 2018 => 3 fined 208 the amount of 1000 for Veiculo sem documento
+Sun Mar  4 01:11:23 2018 => 166 fined 214 the amount of 1000 for dirigir sem CNH
+Sun Mar  4 02:45:29 2018 => 166 fined 203 the amount of 1000 for dirigir sem cnh
+Sun Mar  4 02:46:21 2018 => 166 fined 203 the amount of 1000 for dirigir sem cnh
+Sun Mar  4 03:28:20 2018 => 75 fined 211 the amount of 100 for Semaforo
+
+Sun Mar  4 16:19:30 2018 => 167 fined 194 the amount of 100 for Porte Ilegal de arma da policia e Porte ilegal de pistola
+Sun Mar  4 16:35:45 2018 => 171 fined 198 the amount of 100 for Trafico de Drogas
+Sun Mar  4 17:17:03 2018 => 167 fined 217 the amount of 100 for Trafico de Drogas
+Sun Mar  4 17:45:27 2018 => 166 fined 217 the amount of 1000 for mascarado
+Sun Mar  4 17:45:43 2018 => 166 fined 217 the amount of 1000 for mascarado
+Sun Mar  4 17:49:53 2018 => 167 fined 30 the amount of 100 for Desacato a autoridade e Ameaca a oficiais 
+Sun Mar  4 18:52:28 2018 => 167 fined 259 the amount of 100 for Trafico de drogas, Fuga da PM, Dinheiro Sujo e Roubo de veiculo
+Sun Mar  4 19:56:56 2018 => 166 fined 24 the amount of 100 for Trafico de drogas, dinheiro ilegal!
+Mon Mar  5 00:10:54 2018 => 167 fined 278 the amount of 1000 for Sem CNH
+Mon Mar  5 00:11:26 2018 => 167 fined 278 the amount of 100 for Carro Roubado
+Mon Mar  5 00:23:59 2018 => 166 fined 278 the amount of 100 for tROCA DE TIRO, FUGA, ANTI-RP
+Mon Mar  5 00:24:57 2018 => 166 fined 198 the amount of 100 for Fuga, Tiroteio, 

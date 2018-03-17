@@ -1,0 +1,4 @@
+Wed Feb 28 04:01:31 2018 => 15 mobile paid 4 the amount of 9030, user bank post-payment for 15 equals $11178 and for 15 equals $34325
+Wed Feb 28 15:00:48 2018 => 5 mobile paid 24 the amount of 1200, user bank post-payment for 5 equals $6307 and for 5 equals $11200
+Thu Mar  1 01:29:48 2018 => 15 mobile paid 4 the amount of 10000, user bank post-payment for 15 equals $10068 and for 15 equals $15050
+Thu Mar  1 23:43:07 2018 => 1 mobile paid 24 the amount of 5000000, user bank post-payment for 1 equals $36217 and for 1 equals $5039200

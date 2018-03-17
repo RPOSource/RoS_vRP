@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "false",
+		"backgroundColour" : "20,20,20",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/capitalroleplay.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "false",
+		"serverTitle" : "Capital RolePlay",
+		"playAudioInBackground" : "true",
+		"audioPath" : "audio/gta.ogg",
+		"audioVolume" : "0.5"
+	},
+	{
+		"rule1" : "Não faça RDM ou VDM",
+		"rule2" : "O microfone é obrigatório",
+		"rule3" : "Não use/abuse de bugs",
+		"rule4" : "Não use cheats",
+		"rule5" : "Não faça racismo",
+		"rule6" : "Não fique incomodando os outros",
+		"rule7" : "Use do senso comum"
+	},
+	{
+		"servers1" : "Discord: http://discord.gg/asdf123",
+		"servers2" : "Server: 192.99.214.4:30120",
+		"servers3" : "Website: Em construção",
+		"servers4" : "",
+		"servers5" : "",
+		"servers6" : "",
+		"servers7" : ""
+	},
+	{
+		"content1" : "Customização de personagem",
+		"content2" : "Compra de veículos",
+		"content3" : "Whitelist para PM e SAMU",
+		"content4" : "Vários empregos (entregador, sedex, drogas, hacker, etc)",
+		"content5" : "Bancos e ATM's",
+		"content6" : "Customização de veículos",
+		"content7" : "Mensagem de celular e chamada"
+	}
+]
